@@ -20,12 +20,12 @@ func main() {
 func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick biography:": "A kind of hybrid metalHead-melomaniac-gearAddict-amadorMusician-traveller-foodLover-gamer-coder-programmer-catLover-sportsAficionado",
-    "- 🔭 I am currently working on": "Software developer using Drupal and Wordpress cms",
-    "- 🌱 I am currently learning": "TypeScript, JavaScript and using the NestJs framework",
-    "- 👯 I'm looking to collaborate on": "NestJs and Docker related projects",
-    "- 🤔 I'm looking for help with": "Anything related to what I'm currently learning 😅",
-    "- 💬 Ask me about": "NestJS,Wordpress,Drupal,PHP, Laravel, SQL, Software Design and Architecture, Web-Dev",
-    "- 📫 How to contact me:": "https://github.com/wesleycosta061203/wesleycosta061203",
+    		"- 🔭 I am currently working on": "Software developer using Drupal and Wordpress cms",
+    		"- 🌱 I am currently learning": "TypeScript, JavaScript and using the NestJs framework",
+    		"- 👯 I'm looking to collaborate on": "NestJs and Docker related projects",
+    		"- 🤔 I'm looking for help with": "Anything related to what I'm currently learning 😅",
+    		"- 💬 Ask me about": "NestJS,Wordpress,Drupal,PHP, Laravel, SQL, Software Design and Architecture, Web-Dev",
+    		"- 📫 How to contact me:": "https://github.com/wesleycosta061203/wesleycosta061203",
 	}
 }
 ```
