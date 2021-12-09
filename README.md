@@ -93,5 +93,3 @@ func GetBio() Bio {
 
 
 ---
-
-⭐️ From [@WesleyCosta](https://github.com/wesleycosta061203)
