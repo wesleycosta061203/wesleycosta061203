@@ -24,7 +24,7 @@ func GetBio() Bio {
     		"- 🌱 I am currently learning": "TypeScript, JavaScript and using the NestJs framework",
     		"- 👯 I'm looking to collaborate on": "NestJs and Docker related projects",
     		"- 🤔 I'm looking for help with": "Anything related to what I'm currently learning 😅",
-    		"- 💬 Ask me about": "NestJS,Wordpress,Drupal,PHP, Laravel, SQL, Software Design and Architecture, Web-Dev",
+    		"- 💬 Ask me about": "NestJS, Wordpress, Drupal, PHP, Laravel, SQL, Software Design and Architecture, Web-Dev",
     		"- 📫 How to contact me:": "https://github.com/wesleycosta061203/wesleycosta061203",
 	}
 }
