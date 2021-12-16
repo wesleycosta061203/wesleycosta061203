@@ -79,7 +79,7 @@ func GetBio() Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=wesleycosta061203&color=pink" alt="wesleycosta061203 :: Visitor's Count" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=wesleycosta061203&color=yellow" alt="wesleycosta061203 :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
@@ -87,7 +87,7 @@ func GetBio() Bio {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="github-readme-stats.vercel.app/api?username=wesleycosta061203&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="wesleycosta061203 :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wesleycosta061203&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="wesleycosta061203 :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
