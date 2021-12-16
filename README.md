@@ -70,7 +70,7 @@ func GetBio() Bio {
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
+  <a href="https://stackshare.io/anhello/my-personal-stack"> a
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
   </a>
 </p> -->
